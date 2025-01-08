@@ -1,0 +1,17 @@
+{
+  "packageId": "wpklbaHM7XAsE",
+  "spaceId": "spcEsl9lX33oe",
+  "entry": "./src/index.tsx",
+  "name": {
+    "zh-CN": "testRecord",
+    "en-US": "testRecord"
+  },
+  "icon": "./package_icon.png",
+  "cover": "./cover.png",
+  "authorIcon": "./author_icon.png",
+  "description": {
+    "zh-CN": "testRecord 的描述",
+    "en-US": "testRecord description"
+  },
+  "sandbox": true
+}
