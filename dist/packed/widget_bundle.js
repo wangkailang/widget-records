@@ -12,10 +12,10 @@ return /******/ (() => { // webpackBootstrap
 /******/ 	"use strict";
 /******/ 	var __webpack_modules__ = ({
 
-/***/ "../../../../../../../../../develop/2024/test-record/src/setting.tsx":
-/*!***************************************************************************!*\
-  !*** ../../../../../../../../../develop/2024/test-record/src/setting.tsx ***!
-  \***************************************************************************/
+/***/ "../../../../../../../../../develop/2024/widget-records/src/setting.tsx":
+/*!******************************************************************************!*\
+  !*** ../../../../../../../../../develop/2024/widget-records/src/setting.tsx ***!
+  \******************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 __webpack_require__.r(__webpack_exports__);
@@ -151,9 +151,9 @@ module.exports = __WEBPACK_EXTERNAL_MODULE_react__;
 var __webpack_exports__ = {};
 // This entry needs to be wrapped in an IIFE because it needs to be isolated against other modules in the chunk.
 (() => {
-/*!*************************************************************************!*\
-  !*** ../../../../../../../../../develop/2024/test-record/src/index.tsx ***!
-  \*************************************************************************/
+/*!****************************************************************************!*\
+  !*** ../../../../../../../../../develop/2024/widget-records/src/index.tsx ***!
+  \****************************************************************************/
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   HelloWorld: () => (/* binding */ HelloWorld)
@@ -162,7 +162,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _apitable_widget_sdk__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @apitable/widget-sdk */ "@apitable/widget-sdk");
 /* harmony import */ var _apitable_widget_sdk__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_apitable_widget_sdk__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _setting__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./setting */ "../../../../../../../../../develop/2024/test-record/src/setting.tsx");
+/* harmony import */ var _setting__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./setting */ "../../../../../../../../../develop/2024/widget-records/src/setting.tsx");
 
 
 
